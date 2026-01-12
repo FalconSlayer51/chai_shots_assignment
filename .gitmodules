@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/FalconSlayer51/cms-app-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/FalconSlayer51/cms-client-app
