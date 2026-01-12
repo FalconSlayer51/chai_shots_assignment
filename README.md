@@ -180,7 +180,7 @@ This ensures the app is **demo-ready immediately**.
 ## 🚀 Deployed URLs
 
 * **Swagger / OpenAPI**
-  👉 [https://cms-app-backend-k09y.onrender.com/swagger-ui/index.html]([https://api.example.com/swagger-ui.html](https://cms-app-backend-k09y.onrender.com/swagger-ui/index.html))
+  👉 [https://cms-app-backend-k09y.onrender.com/swagger-ui/index.html]([https://api.example.com/swagger-ui.html](https://cms-app-backend-k09y.onrender.com/swagger-ui/index.html])
 
 ---
 
