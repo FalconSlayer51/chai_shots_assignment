@@ -1,7 +1,10 @@
 # CMS + Public Catalog Platform
 
 A production-ready **Admin CMS + Public Catalog** system that allows internal teams to manage **Programs → Terms → Lessons**, upload media assets, schedule publishing, and expose a public catalog for consumers.
-
+Here are the links for live demo:
+ - [Web app](https://cms-client-app.onrender.com)
+ - [Backend](https://cms-app-backend-k09y.onrender.com)
+### Intitially the apps may time to take load becasue of warm up. please wiat for 2 minutes
 This project is built as a **real, deployable product** with:
 
 - Strongly enforced DB schema
@@ -249,6 +252,10 @@ This ensures the app is **demo-ready immediately**.
 
 ## Video
 
-https://github.com/user-attachments/assets/b58e69df-396c-4b89-a515-1555d101714a
+
+
+
+https://github.com/user-attachments/assets/1039835e-5681-43f3-9f69-d0fe57bc7bf7
+
 
 
